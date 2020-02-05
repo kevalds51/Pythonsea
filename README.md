@@ -1,6 +1,8 @@
 # Pythonsea
 A serpent charmer's ground to code, test, package and deploy python code.
 
+![A Serpant Master - Sapera](/img/sapera.png)
+
 # What's on the stack !?
 
     0. Installing Python and pip!
